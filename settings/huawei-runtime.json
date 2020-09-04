@@ -1,0 +1,23 @@
+{
+  "package": "com.qm.hw.ljxx",
+  "name": "灵剑修仙",
+  "icon": "C:\\Users\\Administrator\\Desktop\\APP1.png",
+  "versionName": "1.0.0.18",
+  "versionCode": "1.0.0.18",
+  "minPlatformVersion": "1035",
+  "manifestPath": "",
+  "deviceOrientation": "portrait",
+  "fullScreen": true,
+  "logLevel": "off",
+  "runRelease": false,
+  "appType": "fastgame",
+  "tinyPackageMode": false,
+  "tinyPackageServer": "",
+  "useDebugKey": true,
+  "privatePath": "",
+  "certificatePath": "",
+  "disabledMode": "disabled is-disabled",
+  "npmPath": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": false
+}

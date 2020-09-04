@@ -1,0 +1,37 @@
+{
+  "name": "sealrun",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint 'assets/script/UI/Scripts/**/*.{js,ts,tsx}'",
+    "format": "eslint --fix 'assets/script/UI/Scripts/**/*.{js,ts,tsx}'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://code.aliyun.com/412146369/SealRun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.1.0",
+    "axios": "^0.19.0",
+    "events": "^3.0.0",
+    "protobufjs": "^6.8.8",
+    "socket.io-client": "^2.3.0",
+    "typeof-jsonc": "^1.1.10"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
+    "@typescript-eslint/eslint-plugin": "^2.23.0",
+    "@typescript-eslint/parser": "^2.23.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "husky": "^4.2.3",
+    "lint-staged": "^10.0.8",
+    "prettier": "^1.19.1"
+  },
+  "description": ""
+}
